@@ -15,31 +15,6 @@ Alongside my studies, I have also gained experience working in the industry. I w
 
 Are you interested in discussing about my relevant topics or exploring a potentially collaboration? Feel free to reach out to me via email at: [email].
 
-<!-- Hi there! I’m X, currently pursuing my MSc in Artificial Intellegence at the University of Amsterdam. I have worked in numerous projects during my MSc such as Global Embeddings in Learned Sparse Retrieval for Long Documents and many reproducibility projects based on recent papers in the IR community. I am corrently condacting my thesis as an interhsip in the company "TKH Group" under the supervision of PhD Dylan Ju, Angelos Nalmpantis, Dr. Andrew Yates and Dr. Sean MacAvaney. My research focuses on neural information retrieval, recommendation systems and natural language processing.
-
-Asiade from my MSc, I have attended the European Summer School on Information Retrieval (ESSIR) 2024 and I finished my BCs at the National and Kapodestrian University of Athens condacting my thesis with the title "Creating Ontology with the help of a ChatBot" under the supervision of Doc Eleni Tsalapati and Prof. Manolis Koubarakis.
-
-Simultatousnly, I worked as a Computer Engineer for company named Twiki as an API designer and engineer in order to setup the backend and processes of the company. Before that I worked as a Data Assurance for the company Optasia, where I analyzed data integrity and completeness at Optasia, ensuring high-quality data standards. 
-
-My recent research interests revolve around representation learning and retrieval-augmented generation, encompassing:
-
-Retrieval-enhanced machine learning
-Enhanced information access
-Knowledge/context management for multi-stage RAG
-Retrieval-based language modeling via in-context learning
-Neural information retrieval (text)
-Out-of-domain dataset augmentation for weakly-supervised text retrieval
-Unsupervised representation learning for domain-specific retrieval approaches
-Specialized text ranking methods
-Instruction-followed retrieval approaches for knowledge-intensive tasks
-Passage re-ranking and candidate pruning
-Interactive (conversational) search
-End-to-end mixed-initiative response generation
-Personalized open-domain conversational question answering
-
-Feel free to contact me via email: akis.{lastname}[at]gmail.com. I’m open to inquiries and feedback related to my interests and excited to explore potential collaborations. -->
-
-
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
