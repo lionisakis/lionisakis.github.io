@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! My name is Akis Lionis, currently pursuing an MSc in Artificial Intelligence at the University of Amsterdam. During my studies, I have worked on various projects in the Information Retrieval (IR) community. Currently, I am conducting my thesis as part of an internship at "TKH Group", under the supervision of PhD Dylan Ju, Angelos Nalmpantis, Dr. Andrew Yates and Dr. Sean MacAvaney. My interest is on neural information retrieval, recommendation systems, and natural language processing.
+Hi there! My name is Akis Lionis, currently pursuing an MSc in Artificial Intelligence at the University of Amsterdam. During my studies, I have worked on various projects in the Information Retrieval (IR) community. Currently, I am conducting my thesis as part of an internship at "TKH Group", under the supervision of PhD Dylan Ju, Angelos Nalmpantis, Dr. Andrew Yates and Dr. Sean MacAvaney. My interests lie in neural information retrieval, recommendation systems, and natural language processing.
 
-Beyond my MSc, I participated in the European Summer School on Information Retrieval (ESSIR) 2024 and earned my BSc from the National and Kapodistrian University of Athens. My undergraduate thesis, titled "Creating Ontology with the help of a ChatBot", was conducted under the supervision of Doc Eleni Tsalapati and Prof. Manolis Koubarakis.
+Beyond my MSc, I participated in the European Summer School on Information Retrieval (ESSIR) during the Jul 2024. I earned my BSc in Computer Science from the National and Kapodistrian University of Athens in July 2023. My undergraduate thesis, titled "Creating Ontology with the Help of a ChatBot," was completed under the supervision of Doc Eleni Tsalapati and Prof. Manolis Koubarakis.
 
-Simultaneously with my studies, I worked as a Computer Engineer at Twiki, where I served as an API designer and backend engineer, contributing to the development and optimization of the company’s backend processes. Prior to that, I worked as a Data Assurance specialist at Optasia, where I focused on analyzing data integrity and completeness to uphold high-quality data standards.
+Alongside my studies, I have also gained experience working in the industry. I worked as a Computer Engineer at Twiki, where I served as an API designer and backend engineer, contributing to the development and optimization of the company’s backend processes. Prior to that, I worked as a Data Assurance specialist at Optasia, where I focused on analyzing data integrity and completeness to uphold high-quality data standards.
 
-Feel free to contact me via email: akis.{lastname}[at]gmail.com. I’m open to inquiries and feedback related to my interests and excited to explore potential collaborations.
+Are you interested in discussing about my relevant topics or exploring a potentially collaboration? Feel free to reach out to me via email at: [email].
 
 <!-- Hi there! I’m X, currently pursuing my MSc in Artificial Intellegence at the University of Amsterdam. I have worked in numerous projects during my MSc such as Global Embeddings in Learned Sparse Retrieval for Long Documents and many reproducibility projects based on recent papers in the IR community. I am corrently condacting my thesis as an interhsip in the company "TKH Group" under the supervision of PhD Dylan Ju, Angelos Nalmpantis, Dr. Andrew Yates and Dr. Sean MacAvaney. My research focuses on neural information retrieval, recommendation systems and natural language processing.
 
