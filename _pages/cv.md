@@ -1,10 +1,12 @@
----
+<!-- ---
 layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+redirect_to:
+  - /files/paper1.pdf
 ---
 
 {% include base_path %}
@@ -61,4 +63,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
