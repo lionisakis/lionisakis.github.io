@@ -21,8 +21,6 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    redirect_from:
-      - /resume
     url: /files/LIONIS_CV.pdf
     
   # - title: "Guide"
